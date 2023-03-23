@@ -4,6 +4,8 @@
 
 #### Ссылка на соревнование: https://github.com/s-nlp/russe_detox_2022
 
+#### Основной код: sentence style transfer.ipynb
+
 #### На данный момент:
 1) у Delete решения
 
